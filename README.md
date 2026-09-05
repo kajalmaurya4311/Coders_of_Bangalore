@@ -8,7 +8,7 @@ The project takes raw, semi-structured data from social media profiles (like Ins
 - **Data Analysis**: Answers key questions about the dataset using Python in a Jupyter Notebook environment.
 ##  Repository Structure
 - `finaldata.txt`: The primary raw text file containing the profile dumps of various tech pages.
-- `Coders_of_bengalore.ipynb` / `final_codes_of_coders_of_Bengluru.ipynb`: Jupyter Notebooks containing the parsing logic and data analysis.
+- `main.ipynb`: Jupyter Notebooks containing the parsing logic and data analysis.
 - `data.json`: The final structured output of the parsed data.
 - `initialdata.txt`: Initial sample of the raw dataset.
 ## Insights & Features
@@ -20,7 +20,7 @@ The Jupyter Notebook extracts interesting insights from the data, such as:
 ## How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/coders-of-bangalore.git
+   git clone https://github.com/kajalmaurya4311/coders-of-bangalore.git
    cd coders-of-bangalore
    ```
 2. **Open the Notebook**:
@@ -29,7 +29,7 @@ The Jupyter Notebook extracts interesting insights from the data, such as:
    jupyter notebook
    ```
 3. **Run the Analysis**:
-   Open `final_codes_of_coders_of_Bengluru.ipynb` and execute the cells sequentially to see the parsing in action and the resulting insights.
+   Open `main.ipynb` and execute the cells sequentially to see the parsing in action and the resulting insights.
 ## Tech Stack
 - **Python 3.x**
 - **Jupyter Notebook**
