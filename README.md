@@ -20,8 +20,8 @@ The Jupyter Notebook extracts interesting insights from the data, such as:
 ## How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kajalmaurya4311/coders-of-bangalore.git
-   cd coders-of-bangalore
+   git clone https://github.com/kajalmaurya4311/Coders_of_Bangalore.git
+   cd Coders_of_Bangalore
    ```
 2. **Open the Notebook**:
    Ensure you have Jupyter Notebook installed.
